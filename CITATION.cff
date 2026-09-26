@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "TITANIUM-6: a seven-layer flow-based intrusion detection and response pipeline"
+version: "R8.0"
+authors:
+  - family-names: Younas
+    given-names: Muhammad
+  - family-names: Farooq
+    given-names: Muhammad
+  - family-names: Amin
+    given-names: Ruhul
+repository-code: "https://github.com/EngrMuhammadYounas/TITANIUM-6-IDS"
+keywords: [intrusion detection, CSE-CIC-IDS2018, chronological evaluation, data leakage, LightGBM, SHAP]

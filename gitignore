@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# run outputs and data (large; regenerate with the scripts)
+l1_R8*/
+l2_R8*/
+l3_R8*/
+l4_R8*/
+l5_R8*/
+l6_R8*/
+l7_R8*/
+x2017_R8*/
+*.parquet
+*.pkl
+*.pt
+audit_trail.jsonl
+# secrets
+api_keys.json
